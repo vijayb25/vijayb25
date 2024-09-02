@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vijayb25
 - 👀 I’m interested in web/software development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on various project related to web/app development
+- 💞️ I’m looking to collaborate on various projects related to web/app development
 - 😄 Pronouns: He/Him
 
 <!---
