@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vijay
 - 👀 I’m interested in web/software development
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on various projects related to web/app development
 - 😄 Pronouns: He/Him
 
